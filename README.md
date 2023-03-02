@@ -4,7 +4,7 @@
 
 - my name is abdelrahman i want to be a data scientist 
 
-- i am currently a student in faculty of electronics engineering *last year*
+- i graduated from the faculty of electronics engineering *last year*
 
 - you can contact me :
      - abdelrahmankhattab9999@gmail.com
