@@ -2,7 +2,8 @@
 
 <img align='right' src="https://github.com/abood-eg/abood-eg/blob/master/images/ichigo.jpg" width='50%' >
 
-- my name is abdelrahman i want to be a data scientist 
+- my name is abdelrahman i like software development
+ 
 
 - i graduated from the faculty of electronics engineering *last year*
 
