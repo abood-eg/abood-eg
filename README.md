@@ -14,9 +14,9 @@
 
 # my ToDoList
 
- [  ] read 10 pages a day *min*
- [  ] revise 1/2 part a day *min*
- [  ] implement one project a week 
- [  ] 10 of each workout a day *min*
+- [  ] read 10 pages a day *min*
+- [  ] revise 1/2 part a day *min*
+- [  ] implement one project a week 
+- [ x ] 10 of each workout a day *min*
 
 
