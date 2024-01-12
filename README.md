@@ -5,7 +5,7 @@
 - my name is abdelrahman i like software development
  
 
-- i graduated from the faculty of electronics engineering *last year*
+- i graduated from the faculty of electronics engineering 
 
 - you can contact me :
      - abdelrahmankhattab9999@gmail.com
