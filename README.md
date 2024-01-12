@@ -1,9 +1,11 @@
+## software engineer 
+
 <img align='right' src="https://github.com/abood-eg/abood-eg/blob/master/images/ichigo.jpg" width='50%' >
-## software engineer | backend developer
+
 - my name is abdelrahman i like software development
  
 
-- i graduated from the faculty of electronics engineering
+- i graduated from the faculty of electronics engineering *last year*
 
 - you can contact me :
      - abdelrahmankhattab9999@gmail.com
