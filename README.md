@@ -1,7 +1,5 @@
 ## software engineer 
 
-<img align='right' src="https://github.com/abood-eg/abood-eg/blob/master/images/ichigo.jpg" width='50%' >
-
 - my name is abdelrahman i like software development
  
 
