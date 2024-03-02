@@ -4,6 +4,7 @@
 
 I am a passionate back-end developer with a focus on building scalable and efficient systems. I have expertise in various technologies and frameworks, including Node.js, Express.js, MongoDB, and SQL. I enjoy solving complex problems and optimizing performance to deliver high-quality software solutions.
 
+
 ## Projects
 
 ### Project 1: E-Commerce Platform
@@ -24,21 +25,28 @@ I am a passionate back-end developer with a focus on building scalable and effic
 - Tenchnologies Used: Python,Tensorflow ,Tensorflow lite micro ,eloquent tinymli ,C++ ,convolutional neural networks,Arduino IDE.
 - Repository Link: [Spoken Signs Repository](https://github.com/alaaAbdelrahman/Graduation_project)
 
+<a href="https://github.com/khttp/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=khttp&theme=gruvbox" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khttp&layout=compact&langs_count=8&card_width=320&theme=gruvbox" />
+</a>
 
 ## Skills
-- JavaScript
-- Node.js
-- Express.js
-- MongoDB
-- SQL
-- RESTful API Design
-- Authentication & Authorization
-- Agile Development
-- Test-Driven Development (TDD)
-- Continuous Integration & Deployment (CI/CD)
-- Python
-- C++
-- Tensorflow
+
+  - JavaScript
+  - Node.js
+  - Express.js
+  - MongoDB
+  - SQL
+  - RESTful API Design
+  - Authentication & Authorization
+  - Agile Development
+  - Test-Driven Development (TDD)
+  - Continuous Integration & Deployment (CI/CD)
+  - Python
+  - C++
+  - Tensorflow
 
 ## Contact Me
 
